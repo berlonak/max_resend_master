@@ -93,3 +93,7 @@ install_ru_certs.py, diagnose.py, max_check.py, tg_check.py   setup and diagnost
   Telegram, reactions and polls.
 - The bridge stores other people's messages and files. Make sure this complies with personal
   data law (for example, Russian Federal Law 152-FZ) and inform chat members.
+
+## License
+
+Copyright 2026 berlonak. Licensed under the [Apache License, Version 2.0](LICENSE).
